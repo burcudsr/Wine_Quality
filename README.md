@@ -3,7 +3,7 @@
 This project focuses on predicting wine quality using tabular data, developed as part of the Playground Series - Season 3, Episode 5. Since wine quality ratings are ordered categories, the study emphasizes ordinal regression techniques and the optimization of the Quadratic Weighted Kappa metric.
 
 ### 🚀 Live Demo
-You can explore the prediction model here: https://huggingface.co/spaces/bdaser/Wine
+You can explore the prediction model here: **[Wine Quality Prediction App](https://huggingface.co/spaces/bdaser/Wine)**
 
 ### 📊 Dataset Overview
 The dataset consists of physicochemical properties of wine, with 2056 entries in the training set and 1372 entries in the test set.
