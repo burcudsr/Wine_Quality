@@ -1,6 +1,6 @@
 # 🍷 Ordinal Regression with a Tabular Wine Quality Dataset
 
-This project focuses on predicting wine quality using tabular data, developed as part of the Playground Series - Season 3, Episode 5. Since wine quality ratings are ordered categories, the study emphasizes ordinal regression techniques and the optimization of the Quadratic Weighted Kappa metric.
+This project focuses on predicting wine quality using tabular data, developed as part of the **Kaggle Playground Series - Season 3, Episode 5.** Since wine quality ratings are ordered categories, the study emphasizes ordinal regression techniques and the optimization of the Quadratic Weighted Kappa metric.
 
 ### 🚀 Live Demo
 Access the tool here: **[Wine Quality Prediction App](https://huggingface.co/spaces/bdaser/Wine)**
